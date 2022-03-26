@@ -1,6 +1,7 @@
 About me
 
 - 👋 Hi, I’m @LingPanda
+- [Email](gtoma0145@gmail.com)
 - 👀 I’m interested in learn new programming languages
 - 🌱 I’m currently learning Javascript and Scratch
 
